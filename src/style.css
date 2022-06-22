@@ -1,0 +1,9 @@
+.paragrafo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
